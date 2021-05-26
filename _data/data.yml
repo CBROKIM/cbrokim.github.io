@@ -7,43 +7,40 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Sihyung Kim
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: cbrokim@gmail.com
+    phone: 010 7913 0357
+    website: cbrokim.github.io
+    linkedin: 
+#    xing: alandoe
+    github: cbrokim
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Basketball
         link:
 
-      - item: Snowboarding
+      - item: Swimming
         link:
 
-      - item: Cooking
+      - item: Piano
         link:
 
 career-profile:
@@ -56,9 +53,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Energy and Systems Engineering
+      university: Seoul National University
+      time: 2016 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +64,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Energy Resources Engineering
+      university: Seoul National University
+      time: 2010 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
