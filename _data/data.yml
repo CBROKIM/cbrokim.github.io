@@ -147,10 +147,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - Title: Dispersion optimized operator for frequency-domain acoustic wave equation in an irregular grid
-        DOI: https://doi.org/10.1190/geo2020-0272.1
-        Authors: Kim Sihyung, Shin Changsoo, Kim Young Seo
-        Journal: Geophysics 86.5 (2021)
+      - title: Dispersion optimized operator for frequency-domain acoustic wave equation in an irregular grid
+        link: https://doi.org/10.1190/geo2020-0272.1
+        authors: Kim Sihyung, Shin Changsoo, Kim Young Seo
+        conference: Geophysics 86.5 (2021)
 
 skills:
     title: Skills &amp; Proficiency
