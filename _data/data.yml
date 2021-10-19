@@ -17,7 +17,7 @@ sidebar:
     website: cbrokim.github.io
     linkedin: 
     github: CBROKIM
-    telegram: @cbrokim
+    telegram: cbrokim
     gitlab:
     bitbucket:
     twitter: 
@@ -91,7 +91,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Researcher
-      time: 2015 - 2021
+      time: 2015 - 2018, 2019 - 2021
       company: Seoul National University, South Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
