@@ -13,12 +13,11 @@ sidebar:
 
     # Sidebar links
     email: cbrokim@gmail.com
-    phone: 010 7913 0357
+    phone: 010 **** ****
     website: cbrokim.github.io
     linkedin: 
-#    xing: alandoe
-    github: cbrokim
-    telegram: # add your nickname without '@' sign
+    github: CBROKIM
+    telegram: @cbrokim
     gitlab:
     bitbucket:
     twitter: 
@@ -76,9 +75,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Geophysical Researcher
+      time: 2018 - 2019
+      company: KOrea Polar Research Institute, South Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -91,20 +90,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Researcher
+      time: 2015 - 2018, 2019 - 2021
+      company: Seoul National University, South Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
