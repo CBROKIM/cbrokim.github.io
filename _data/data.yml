@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: cbrokim@gmail.com
-    phone: 010 1234 2345
+    phone: 010 5842 9264
     website: cbrokim.github.io
     linkedin: 
     github: CBROKIM
@@ -33,15 +33,32 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Basketball
+      - item: Modeling / Simulation
+        - Frequency-domain acoustic/elstic wave simulation
+        - Wave simulation on an irregular grid: topographic irregularity, complicate free surface, Dirichlet boundary
+        - Analysis of simulation results, validate through analytic/reference model
+        - Coarse-grained modeling, reducing time- and space-complexities
         link:
 
-      - item: Swimming
+      - item: Numerical Analysis
+        - Generalized finite difference method on an irregular grid or a point cloud
+        - Flexible approximation of multicariate differentiation
+        - Computational complexity reduction of large-scale sparse matrix factoriztion
+        - Graph partitioning for reducing fill-ins in factorized matrices
         link:
 
-      - item: Piano
+      - item: Optimization Problem
+        - Constrained optimization problem
+        - Global optimum of a constrained problem using basis for null space
         link:
-
+        
+      - item: Imaging / Inversion
+        - Seismic reflection imaging using first arrival traveltime estimation
+        - Tomographic inversion based on ray tracing
+        - Simulation-based imaging and inversion: Reverse Time Migration (RTM) and Full Waveform Inversion (FWI)
+        - Seismic post-processing and facies classification via machine learning algorithms
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -75,32 +92,33 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: PhD Researcher
+      time: 2022 - 
+      company: KOrea Polar Research Institute (KOPRI), South Korea
+      details: |
+        - Conducting data processing and analysis of multi-channel marine seismic survey
+        - Developing imaging algorithms for submarine permafrost on the continenetal shelf
+        - System management of high-perfomance computing (HPC) server
+    - role: Graduate Research Assistant
+      time: 2015 - 2018, 2019 - 2021
+      company: Seoul National University, South Korea
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit.
+          - Implemented academic and industrial research projects: oil/gas/shale-gas exploration, medical imaging
+          - Developed geophysical applications: wave simulation, seismic processing, imaging, interpretation algorithms
+          - Teaching assistant: computer programming practice (2016.1, 2018.1), engineering mathematics (2020.1, 2020.2)
+          - HPC system administrator (Linux system, 3000+ cores)
     - role: Geophysical Researcher
       time: 2018 - 2019
       company: KOrea Polar Research Institute (KOPRI), South Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Researcher
-      time: 2015 - 2018, 2019 - 2021
-      company: Seoul National University, South Korea
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        adipiscing elit. 
+          - Dispatched to Antarctica throughout the year as an overwintering team (6th at JangBogo Station)
+          - Maintained and monitored survey facilities: gravity gradiometer, infrasound, electromagnetic survey systems
+          - Supported international visiting researchers: survey, flight schedule, shipment, equipment setup
+
 projects:
     title: Projects
     intro: >
@@ -131,9 +149,6 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Dispersion optimized operator for frequency-domain acoustic wave equation in an irregular grid
         link: https://doi.org/10.1190/geo2020-0272.1
