@@ -34,29 +34,15 @@ sidebar:
 
     interests:
       - item: Modeling / Simulation
-        - Frequency-domain acoustic/elstic wave simulation
-        - Wave simulation on an irregular grid: topographic irregularity, complicate free surface, Dirichlet boundary
-        - Analysis of simulation results, validate through analytic/reference model
-        - Coarse-grained modeling, reducing time- and space-complexities
         link:
 
       - item: Numerical Analysis
-        - Generalized finite difference method on an irregular grid or a point cloud
-        - Flexible approximation of multicariate differentiation
-        - Computational complexity reduction of large-scale sparse matrix factoriztion
-        - Graph partitioning for reducing fill-ins in factorized matrices
         link:
 
       - item: Optimization Problem
-        - Constrained optimization problem
-        - Global optimum of a constrained problem using basis for null space
         link:
         
       - item: Imaging / Inversion
-        - Seismic reflection imaging using first arrival traveltime estimation
-        - Tomographic inversion based on ray tracing
-        - Simulation-based imaging and inversion: Reverse Time Migration (RTM) and Full Waveform Inversion (FWI)
-        - Seismic post-processing and facies classification via machine learning algorithms
         link:
         
 career-profile:
